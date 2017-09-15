@@ -6,4 +6,3 @@ def dia_1(dia):
 
 print(dia_1("domingo"))
 print(dia_1("lunes))
-	    
